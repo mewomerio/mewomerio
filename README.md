@@ -1,33 +1,29 @@
 <div align="center">
 
-  <!-- Заголовок / Hero -->
-  <h1>Привет, я <span style="color:#00c896;">Dmitry</span> 👋</h1>
-  <h3>DevOps / SRE / Automation Engineer</h3>
+  <!-- HERO -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Senior+Fullstack+Engineer;Building+from+idea+to+production;Clean+code.+Bold+UX.+Solid+DevOps." alt="Typing SVG" />
 
-  <!-- Краткое интро -->
-  <p>
-    Люблю автоматизировать всё, что повторяется дважды.<br/>
-    Инфраструктура как код, CI/CD, наблюдаемость и надёжность — это про меня.
-  </p>
+  <h1>Hey, I'm <span style="color:#ff6bcb;">mewomerio</span> 👋</h1>
+  <h3 style="color:#9b59b6;">Senior Fullstack Engineer • JS/TS • Cloud • DevOps</h3>
 
-  <!-- Быстрые факты -->
+  <!-- QUICK FACTS -->
   <p>
+    <img src="https://img.shields.io/badge/Role-Senior%20Fullstack-ff6bcb?style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux-00aaff?style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/Shell-PowerShell%20%7C%20Bash-2f3640?style=for-the-badge&logo=powershell&logoColor=white" />
-    <img src="https://img.shields.io/badge/Role-DevOps-00c896?style=for-the-badge&logo=azure-devops&logoColor=white" />
+    <img src="https://img.shields.io/badge/Editor-Cursor%20%7C%20VSCode-1abc9c?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   </p>
 
-  <!-- Контакты (заполните свои данные) -->
+  <!-- CONTACTS -->
   <p>
     <a href="https://github.com/mewomerio" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-mewomerio-111111?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <!--
-    <a href="https://www.linkedin.com/in/ВАШ_ПРОФИЛЬ" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <!-- OPTIONAL: UNCOMMENT & FILL
+    <a href="https://www.linkedin.com/in/USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:you@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-8b0000?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-Say%20Hi!-e74c3c?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     -->
   </p>
@@ -36,83 +32,99 @@
 
 ---
 
-### 🧑‍💻 Немного обо мне
+### 🧠 About me
 
-- **Специализация**: автоматизация, CI/CD, контейнеризация, мониторинг и логирование.
-- **Подход**: инфраструктура как код, reproducible окружения, минимизация ручных действий.
-- **Интересы**: Kubernetes, GitHub Actions, облака (AWS/Azure/GCP), оптимизация пайплайнов и билда.
-
----
-
-### 🛠️ Технологический стек
-
-**Языки и скрипты**
-
-- PowerShell, Bash  
-- Python, JavaScript (по необходимости для автоматизации)
-
-**DevOps & CI/CD**
-
-- GitHub Actions, GitLab CI, Jenkins  
-- Docker, Docker Compose  
-- Kubernetes (k8s), Helm  
-- Ansible / Terraform (IaC)
-
-**Мониторинг и логирование**
-
-- Prometheus, Grafana  
-- Loki / ELK / OpenTelemetry
-
-**Инфраструктура и облака**
-
-- AWS / Azure / GCP  
-- Linux (Ubuntu, Debian, Alpine), Windows Server
+- **Senior Fullstack Engineer**: from product idea and architecture to production and observability.
+- **Full cycle**: design, frontend, backend, infrastructure, CI/CD, monitoring.
+- **Product mindset**: not just shipping features, but making them fast, stable and pleasant to use.
+- **Philosophy**: strong typing, clean architecture, good DX for the team, and fewer 3 a.m. incidents.
 
 ---
 
-### 📊 GitHub статистика
+### ⚙️ Tech stack (I actually use it)
+
+**Core languages**
+
+- TypeScript / JavaScript  
+- Python (automation, services, scripting)  
+- Occasionally Go / C# if it fits the job
+
+**Frontend**
+
+- React / Next.js  
+- State: Redux Toolkit, Zustand, React Query  
+- Styling: Tailwind CSS, Styled Components, CSS-in-JS  
+- UI: shadcn/ui, MUI, Radix UI, custom design systems
+
+**Backend**
+
+- Node.js (Express, Fastify, NestJS)  
+- REST, GraphQL, WebSockets  
+- Auth: JWT, OAuth2, session-based, API keys
+
+**Databases & Storage**
+
+- PostgreSQL, MySQL, MongoDB, Redis  
+- ORMs: Prisma, TypeORM, Sequelize  
+- Caching & queues: Redis, RabbitMQ, Kafka (where it makes sense)
+
+**DevOps & Cloud**
+
+- Docker, Docker Compose, Kubernetes (k8s)  
+- CI/CD: GitHub Actions, GitLab CI, Jenkins  
+- IaC: Terraform, Helm, Ansible  
+- Cloud: AWS / GCP / Azure, serverless where it’s worth it
+
+**Quality & tooling**
+
+- Testing: Jest, Vitest, Playwright, Cypress  
+- Lint & formatting: ESLint, Prettier, Commitlint, Husky  
+- Monorepos: pnpm / yarn workspaces, Turborepo, Nx
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Замените USERNAME на свой логин GitHub -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=mewomerio&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mewomerio&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mewomerio&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mewomerio&theme=radical&hide_border=true" alt="GitHub streak" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mewomerio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mewomerio&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 
 </div>
 
 ---
 
-### 🚀 Что я делаю
+### 🚀 What I like to build
 
-- **Строю CI/CD**: от коммита до продакшена с автоматическими тестами, линтингом и деплоем.
-- **Описываю инфраструктуру как код**: Terraform / Ansible, чтобы окружения были воспроизводимыми и понятными.
-- **Обеспечиваю наблюдаемость**: метрики, логи, алерты, дашборды — чтобы инциденты ловились до пользователей.
-- **Оптимизирую процессы**: ускоряю сборки, уменьшаю флейки тестов, автоматизирую рутину.
-
----
-
-### 📂 Подборка репозиториев
-
-> Замените ссылки на свои реальные проекты.
-
-- **`infra-as-code-example`** — пример инфраструктуры как код с Terraform + Ansible для типового веб-приложения.  
-- **`github-actions-templates`** — коллекция шаблонов GitHub Actions для CI/CD пайплайнов.  
-- **`k8s-observability-stack`** — готовый стек мониторинга и логирования (Prometheus + Grafana + Loki) для Kubernetes.  
+- **Fullstack products**: from landing pages and dashboards to complex internal tools and admin panels.
+- **Developer experience**: DX-focused tooling, CLIs, generators, project templates and boilerplates.
+- **Real-time stuff**: live dashboards, notifications, activity feeds, collaborative UIs.
+- **Scalable backends**: modular monoliths and microservices with clear boundaries and observability.
 
 ---
 
-### 🤝 Как со мной связаться
+### 🧩 Highlighted projects
 
-- Откройте `Issues` или `Discussions` в интересующем репозитории.
-- Можете форкнуть и отправить `Pull Request` — всегда рад интересным идеям.
+> Replace with your real repos when ready.
+
+- **`fullstack-starter-kit`** – opinionated production-ready starter (Next.js, NestJS, PostgreSQL, Docker, GitHub Actions).  
+- **`realtime-dashboard`** – real-time analytics dashboard with WebSockets, React and Node.js.  
+- **`developer-toolbox`** – collection of CLIs, generators and small tools that make everyday work faster.  
+
+---
+
+### 🤝 How to work with me
+
+- Open an `Issue` with a clear problem or idea — I appreciate good context.  
+- Create a `Pull Request` — I love clean diffs, good commit messages and meaningful tests.  
+- Or just ⭐️ the repos you like — this helps me see what people find valuable.
 
 ---
 
 <div align="center">
-  <sub>Этот профильный README оформлен с упором на DevOps и автоматизацию. При желании вы легко можете адаптировать текст под себя.</sub>
+  <sub>Always exploring new tools and patterns. If you have a crazy idea for a project, I probably want to hear it.</sub>
 </div>
 
