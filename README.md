@@ -1,6 +1,9 @@
 <div align="center">
 
   <!-- HERO -->
+  <!-- PROFILE IMAGE -->
+  <img src="./banner.jpg" alt="Profile banner" width="720" />
+  <br/><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Senior+Fullstack+Engineer;Building+from+idea+to+production;Clean+code.+Bold+UX.+Solid+DevOps." alt="Typing SVG" />
 
   <h1>Hey, I'm <span style="color:#ff6bcb;">mewomerio</span> 👋</h1>
@@ -43,11 +46,19 @@
 
 ### ⚙️ Tech stack (I actually use it)
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,go,cs" alt="Core languages" />
+</div>
+
 **Core languages**
 
 - TypeScript / JavaScript  
 - Python (automation, services, scripting)  
 - Occasionally Go / C# if it fits the job
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,styledcomponents,materialui" alt="Frontend stack" />
+</div>
 
 **Frontend**
 
@@ -56,11 +67,19 @@
 - Styling: Tailwind CSS, Styled Components, CSS-in-JS  
 - UI: shadcn/ui, MUI, Radix UI, custom design systems
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,fastapi" alt="Backend stack" />
+</div>
+
 **Backend**
 
 - Node.js (Express, Fastify, NestJS)  
 - REST, GraphQL, WebSockets  
 - Auth: JWT, OAuth2, session-based, API keys
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,rabbitmq,kafka" alt="Databases and storage" />
+</div>
 
 **Databases & Storage**
 
@@ -68,12 +87,20 @@
 - ORMs: Prisma, TypeORM, Sequelize  
 - Caching & queues: Redis, RabbitMQ, Kafka (where it makes sense)
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,aws,gcp,azure,githubactions,gitlab,jenkins" alt="DevOps and cloud" />
+</div>
+
 **DevOps & Cloud**
 
 - Docker, Docker Compose, Kubernetes (k8s)  
 - CI/CD: GitHub Actions, GitLab CI, Jenkins  
 - IaC: Terraform, Helm, Ansible  
 - Cloud: AWS / GCP / Azure, serverless where it’s worth it
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=jest,vitest,playwright,cypress,eslint,prettier,pnpm,yarn" alt="Quality and tooling" />
+</div>
 
 **Quality & tooling**
 
