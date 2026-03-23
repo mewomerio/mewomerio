@@ -2,7 +2,7 @@
 
   <!-- HERO -->
   <!-- PROFILE IMAGE -->
-  <img src="./baner.png" alt="Profile banner" width="720" />
+  <img src="https://raw.githubusercontent.com/mewomerio/github-profile/main/baner.png" alt="Profile banner" width="720" />
   <br/><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Senior+Fullstack+Engineer;Building+from+idea+to+production;Clean+code.+Bold+UX.+Solid+DevOps." alt="Typing SVG" />
 
